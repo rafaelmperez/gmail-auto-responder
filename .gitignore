@@ -26,3 +26,16 @@ Thumbs.db
 .env.example
 credentials.json
 token.json
+
+# Entorno virtual
+venv/
+__pycache__/
+
+# Archivos sensibles
+.env
+credentials.json
+token.json
+auto_reply_log.txt
+auto_responder.log
+last_timestamp.txt
+responded_ids.txt
