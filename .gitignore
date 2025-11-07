@@ -1,0 +1,28 @@
+# Entorno virtual
+venv/
+.env
+.env.example
+__pycache__/
+*.pyc
+*.log
+*.json
+*.txt
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de editor
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Archivos de servicio
+*.service
+
+# Archivos con credenciales
+.env
+.env.example
+credentials.json
+token.json
