@@ -1,13 +1,4 @@
-Perfecto, Rafael 👌
-Aquí tienes el **README.md completo, profesional y en español técnico**, listo para tu repositorio público de **GitHub Pro**.
-Incluye emojis, badges, instrucciones paso a paso, ejemplos, secciones avanzadas, y un diseño pulido de desarrollador senior.
-
-Cópialo completo en tu archivo `README.md` (puedes reemplazar el actual):
-
----
-
-````markdown
-# 🤖 Gmail Auto-Responder — Automatiza tus respuestas con Python y Gmail API
+🤖 Gmail Auto-Responder — Automatiza tus respuestas con Python y Gmail API
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Gmail API](https://img.shields.io/badge/Gmail%20API-Enabled-green)
