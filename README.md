@@ -232,9 +232,3 @@ Consulta el archivo [LICENSE](LICENSE) para más información.
 > — *Rafael M.*
 
 ```
-
----
-
-¿Quieres que te genere también los archivos complementarios `.env.example`, `requirements.txt` y `auto_responder.service` con contenido profesional y seguro para subir al repo limpio?  
-Así completas tu proyecto con toda la estructura ideal para publicar.
-```
