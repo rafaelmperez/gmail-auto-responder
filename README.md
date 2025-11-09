@@ -1,4 +1,4 @@
-🤖 Gmail Auto-Responder — Automatiza tus respuestas con Python y Gmail API
+##🤖 Gmail Auto-Responder — Automatiza tus respuestas con Python y Gmail API
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Gmail API](https://img.shields.io/badge/Gmail%20API-Enabled-green)
