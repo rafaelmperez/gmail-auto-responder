@@ -1,4 +1,4 @@
-## 🤖 Gmail Auto-Responder — 
+## 🤖Gmail Auto-Responder
 
 Automatiza tus respuestas con Python y Gmail API
 
